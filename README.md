@@ -1,6 +1,8 @@
 # RunningSteve
-RunningSteve is simple game based on Java and LibGdx,a game engine.
-\nFirst made on July 1st,2015.
-\nYou can distribute,study,or edit this game(freely).
-\nAll rights reserved by zcfqq2.
-\nTwitter:David Zhang(@zhennaibugu)
+  RunningSteve is simple game based on Java and LibGdx,a game engine.
+  First made on July 1st,2015.
+  You can distribute,study,or edit this game(freely).
+  All rights reserved by zcfqq2.
+  Twitter:David Zhang(@zhennaibugu)
+# Get RunningSteve
+Under Buliding...Please wait.
